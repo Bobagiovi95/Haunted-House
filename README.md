@@ -1,7 +1,7 @@
 # Three.js Journey
 
 
-Page here: [Haunted House](haunted-house-bobagiovi95.netlify.app)
+Page here: [Haunted House](https://haunted-house-bobagiovi95.netlify.app)
 
 
 
